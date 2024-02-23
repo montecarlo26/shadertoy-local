@@ -1,0 +1,79 @@
+﻿  glad.c
+  global_variables.cpp
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(9,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/global_variables.cpp')
+  
+  main.cpp
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(9,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/main.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\sources\main.cpp(41,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\sources\main.cpp(185,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  user_input.cpp
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(9,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\headers\global_variables.h(14,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'sources/user_input.cpp')
+  
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\sources\user_input.cpp(36,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\sources\user_input.cpp(106,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\sources\user_input.cpp(117,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  166 of 220 functions (75.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  shadertoy_local.vcxproj -> C:\Users\Quill\Documents\Visual Studio 2022\shadertoy\shadertoy min 2\x64\Release\shadertoy_local.exe
